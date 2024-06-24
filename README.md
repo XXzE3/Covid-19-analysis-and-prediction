@@ -1,4 +1,5 @@
 # Covid-19 Analysis and Forecasting Report
+(Check the report file for complete analysis)
 
 ## Overview
 
